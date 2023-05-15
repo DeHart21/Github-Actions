@@ -1,0 +1,8 @@
+# __pycache__
+__pycache__/
+
+# MyPy cache
+.mypy_cache/
+
+# Pytest cache
+.pytest_cache/
